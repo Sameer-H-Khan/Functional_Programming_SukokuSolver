@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NfOJBi6rmqJU2vdCVmzTWS5pqYfLVPn9L7ztqSSneizuNBICoOO81V1Kz2Qm0PMXUpiGNM2J66fYjtAPL2+cYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\khans\\Desktop\\Functional Programming\\sudoku\\FirstIonideProject\\FirstIonideProject.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\khans\\.nuget\\packages\\fsharp.core\\8.0.101\\fsharp.core.8.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}
